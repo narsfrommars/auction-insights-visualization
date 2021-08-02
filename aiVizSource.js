@@ -65,7 +65,7 @@ let config = {
           tooltipFormat: 'll',
           displayFormats: {
             'day': 'YYYY-MM-DD',
-            'week': 'YYYY-MM-DD',
+            'week': 'YYYY WW',
             'month': 'MMM YYYY'
           },
         }
